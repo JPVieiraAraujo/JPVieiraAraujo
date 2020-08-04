@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Sou João Paulo, recém formado em Tecnologia de Analise e Desenvolviemnto de Sistemas, pelas Fatec Sorocaba. Esposo de Ellen e pai de duas preciosas crianças, Pedro e Elis. Ah, também da Luna, nossa filha mais velha, uma linda pitbull.
-Atualmente sou Auxiliar de Educação, numa creche da prefeitura municipa de Sorocaba.
-Agora, após concluido da faculdade, pretendo entrar no mercado de TI.
-Estou realizando um curso do sistema SAP, pela instituição FAT em parceria com a Fatec Sorocaba.
-Também estou realizando o Next Level Week 2, da RocketSeat.
-Meus contatos são:
-  Linkedin: https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-vieira-386490186/;
-  e-mail: joao.vieira22@fatec.sp.gov.br
+<br/>Atualmente sou Auxiliar de Educação, numa creche da prefeitura municipa de Sorocaba.
+<br/>Agora, após concluido da faculdade, pretendo entrar no mercado de TI.
+<br/>Estou realizando um curso do sistema SAP, pela instituição FAT em parceria com a Fatec Sorocaba.
+<br/>Também estou realizando o Next Level Week 2, da RocketSeat.
+<br/>Meus contatos são:
+  <br/>Linkedin: https://www.linkedin.com/in/jo%C3%A3o-paulo-ara%C3%BAjo-vieira-386490186/;
+  <br/>e-mail: joao.vieira22@fatec.sp.gov.br
